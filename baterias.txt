@@ -1,0 +1,11 @@
+Ejercicio 1: El Campo "Inesperado"
+
+ "premium": true, al agregarla se agrega unicamente al primer registro y no afecta a los demas. No se debe modificar la estructura de la bbdd
+
+ Ejercicio 2: El Gran Caos (Sparse Data)
+
+ NoSQL puede ahorrar espacio en modelos con datos dispersos porque no almacena campos inexistentes, mientras que SQL debe mantener estructura y metadatos por cada columna aunque el valor sea NUL
+
+ Ejercicio 3: Anidamiento de Datos
+
+ la forma mas facil de leer para el humano es la tabla, pues está mas acostumbrado al formato tabular.
